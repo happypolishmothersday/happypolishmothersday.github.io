@@ -6,10 +6,15 @@
 	font-weight: 600;
 }
 
+html,
+body {
+	height: 100vh;
+	min-height: 100vh;
+}
+
 body {
 	background: url("images/landing.JPG") no-repeat center center fixed;
 	background-size: cover;
-	height: 100vh;
 }
 
 button {
