@@ -26,7 +26,8 @@ button {
 	background-color: transparent;
 }
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1080px) 
+	and (orientation: portrait) {
 	body {
 		background: url("images/landingp.png") no-repeat center center fixed;
 		background-size: cover;
