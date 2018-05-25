@@ -7,16 +7,15 @@
 }
 
 body {
-	background: url("images/landing.JPG") no-repeat center center fixed;
+	background: url("images/landing.jpg") no-repeat center center fixed;
 	background-size: cover;
 }
 
 button {
 	position: absolute;
-	top: 80%;
-	right: 45%;
-	padding: 20px;
-	border: 2px solid black;
-	border-radius: 25%;
-	background-color: gray;
+	right: 70%;
+	top: 50%;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: transparent;
 }
